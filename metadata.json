@@ -1,0 +1,6 @@
+{
+  "name": "VendorHub Marketplace",
+  "description": "An enterprise-grade B2B/B2C Multi-Vendor Marketplace Platform bridging retail, wholesale, and management dashboards across Administrators, Vendors, and Customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
